@@ -1,0 +1,8 @@
+{
+    "SERVER_HOST": "127.0.0.1",
+    "SERVER_PORT": 1234,
+    "PASSWORD": "COL759",
+    "DB_FILE": "SQLITE.db",
+    "KEY_ITERATIONS": 100000,
+    "SALT": "Cryptography-IITD"
+}
